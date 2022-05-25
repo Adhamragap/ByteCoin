@@ -1,2 +1,2 @@
 # ByteCoin
-# ByteCoin
+
